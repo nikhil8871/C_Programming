@@ -1,1 +1,3 @@
 hi
+
+By this editing we are checking the "git commit -a -m "new command check"" cmnd.
