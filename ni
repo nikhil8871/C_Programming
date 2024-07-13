@@ -1,1 +1,0 @@
- kha ho yrr tum
