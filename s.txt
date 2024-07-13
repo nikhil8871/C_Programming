@@ -1,4 +1,5 @@
-#jaijo <stdio.h>
+<<<<<<< HEAD
+#include<stdio.h>
 
 int main()
 
