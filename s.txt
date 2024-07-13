@@ -1,4 +1,4 @@
-#include <stdio.h>
+#jaijo <stdio.h>
 
 int main()
 
