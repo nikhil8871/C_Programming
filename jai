@@ -1,3 +1,0 @@
-hi 
-
-How are you ?
